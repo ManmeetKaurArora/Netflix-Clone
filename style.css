@@ -1,0 +1,316 @@
+#netflix{
+    color: red;
+    font-size: 55px;
+    margin-top: 30px;
+    margin-left: 349px;
+    display: inline-block;
+    float: left;
+}
+body{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/41c789f0-7df5-4219-94c6-c66fe500590a/3149e5eb-4660-4e3d-9e65-b1e615229c64/IN-en-20240513-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+}
+#language{
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border-width: 3px;
+    border-radius: 4px;
+    border-color: white;
+    margin-left: 532px;
+    margin-top: 47px;
+    border-radius: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    cursor: pointer;
+}
+#logout{
+    font-size: 25px;
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    margin-top: -27px;
+    border-radius: 9px;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-left: 13px;
+    cursor: pointer;
+}
+#W{
+    color: white;
+    margin-top: 212px;
+    font-size: 28px;
+    margin-left: 586px;
+}
+#un{
+    color: white;
+    font-size: 47px;
+    margin-left: 312px;
+    font-weight: 1500;
+    margin-top: -19px;
+    margin-bottom: -12px;
+}
+#watch{
+    color: white;
+    font-size: 28px;
+    margin-left: 549px;
+}
+#F{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    margin-left: 615px;
+    border-radius: 9px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    cursor: pointer;
+}
+#logout:hover{
+   background-color: white;
+   color: red; 
+}
+#language:hover{
+    background-color: white;
+    color: black;
+}
+#F:hover{
+    background-color: white;
+    color: red;
+}
+#tv{
+    border-style: solid;
+    border-width: 6px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    margin-top: 260px;
+    display: block;
+}
+#your{
+    margin-top: 174px;
+    margin-left: 210px;
+    font-size: 59px;
+    margin-bottom: 10px;
+    font-weight: 1500;
+    display: inline-block;
+}
+#u{
+    margin-left: 210px;
+    font-size: 20px;
+    margin-bottom: 130px;
+}
+#a{
+    float: right;
+    margin-bottom: 1%;
+    display: inline-block;
+    margin-top: 81px;
+    margin-right: 105px;
+}
+#alag{
+    display: inline-block;
+}
+#next{
+    border-style: solid;
+    border-width: 6px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+#D{
+    margin-left: 765px;
+    font-size: 59px;
+    font-weight: 1500;
+    position: absolute;
+    color: white;
+    margin-top: -358px;
+}
+#S{
+    color: white;
+    margin-left: 765px;
+    font-size: 20px;
+    position: absolute;
+    margin-top: -186px;
+}
+#g{
+    border-style: solid;
+    border-width: 6px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    margin-top: -4px;
+    display: block;
+    width: 99vw;
+    margin-left: -19px;
+    overflow-y: hidden;
+    overflow: hidden;
+}
+#e{
+    margin-top: 174px;
+    margin-left: 210px;
+    font-size: 59px;
+    margin-bottom: 10px;
+    font-weight: 1500;
+    display: inline-block;  
+}
+#p{
+    margin-left: 210px;
+    font-size: 20px;
+    margin-bottom: 130px; 
+}
+#r{
+    float: right;
+    margin-top: -400px;
+    height: 60px;
+}
+#t{
+    height: 404px;
+    margin-right: 71px;
+}
+#c{
+    border-style: solid;
+    border-width: 6px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+#e{
+    color: white;
+    margin-left: 190px;
+    font-size: 59px;
+}
+#c{
+    border-style: solid;
+    border-width: 6px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    margin-top: -4px;
+    display: block;
+    width: 99vw;
+    margin-left: -19px;
+    overflow-y: hidden;
+    overflow: hidden;
+    height: 450px;
+}
+#y{
+    margin-left: 755px;
+    font-size: 59px;
+    font-weight: 1500;
+    position: absolute;
+    color: white;
+    margin-top: 120px;
+}
+#B{
+    color: white;
+    margin-left: 765px;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 225px; 
+}
+#q{
+    border-style: solid;
+    border-width: 6px;
+    border-color: grey;
+    background-color: black;
+    color: white;
+    margin-top: -4px;
+    display: block;
+    width: 99vw;
+    margin-left: -19px;
+    overflow-y: hidden;
+    overflow: hidden;
+    height: 800px;
+} 
+#f{
+    text-align: center;
+    font-size: 53px;
+    font-weight: 1500px;
+}
+#w{
+    margin-left: 284px;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 754px;
+    font-size: 30px;
+    cursor: pointer;
+}
+#H{
+    margin-left: 284px;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 575px;
+    font-size: 30px;
+    cursor: pointer; 
+}
+#wh{
+    margin-left: 284px;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 697px;
+    font-size: 30px;
+    cursor: pointer;   
+}
+#ho{
+    margin-left: 284px;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 731px;
+    font-size: 30px;
+    cursor: pointer; 
+}
+#wci{
+    margin-left: 284px;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 581px;
+    font-size: 30px;
+    cursor: pointer; 
+}
+#in{
+    margin-left: 284px;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 649px;
+    font-size: 30px;
+    cursor: pointer; 
+}
+#w:hover{
+    background-color: white;
+    color: red;
+}
+#H:hover{
+    background-color: white;
+    color: red;
+}
+#wh:hover{
+    background-color: white;
+    color: red;
+}
+#ho:hover{
+    background-color: white;
+    color: red;
+}
+#wci:hover{
+    background-color: white;
+    color: red;
+}
+#in:hover{
+    background-color: white;
+    color: red;
+}
